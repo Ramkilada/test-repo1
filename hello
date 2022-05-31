@@ -1,8 +1,10 @@
+
 class hello java  #from dev2
 
 {       
-         public static void main ( )  #from dev2
-        { 
-	      system.out.prientln("hello")  
+        public static void main ( )  #from dev1
+
+        {  
+	      system.out.prientln("hello")  #from dev1
 	}
-}  #from dev2
+}  # from dev1
