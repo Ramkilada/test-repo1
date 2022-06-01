@@ -16,6 +16,9 @@ public class question
      public static void main (string[] args)
      {
          javahungry(null);
+     } 
+     {
+            by dev3
      }
 }// end cass
 
