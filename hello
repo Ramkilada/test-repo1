@@ -1,10 +1,21 @@
+public class question 
+{ 
+     public static void javahungry(string s)
+     {
+         sysytem.out.println("string");
+      }
 
-class hello java  #from dev2
-
-{       
-        public static void main ( )  #from dev1
-
+      public static void javahungary ("object");
+      {
+           system.out.println("object");
+     
         {  
 	      system.out.prientln("hello")  #from dev1
 	}
-}  # from 
+
+     public static void main (string[] args)
+     {
+         javahungry(null);
+     }
+}// end cass
+
